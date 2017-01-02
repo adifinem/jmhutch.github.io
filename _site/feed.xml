@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Splatlabs</title>
+    <description>Splatlabs - a site for *
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 02 Jan 2017 10:13:23 -0700</pubDate>
+    <lastBuildDate>Mon, 02 Jan 2017 10:13:23 -0700</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Welcome to Splatlabs!</title>
+        <description>&lt;p&gt;hi&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Jan 2017 09:25:22 -0700</pubDate>
+        <link>http://localhost:4000/hi/2017/01/02/welcome-to-splatlabs.html</link>
+        <guid isPermaLink="true">http://localhost:4000/hi/2017/01/02/welcome-to-splatlabs.html</guid>
+        
+        
+        <category>hi</category>
+        
+      </item>
+    
+  </channel>
+</rss>
