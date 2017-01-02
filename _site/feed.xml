@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Splatlabs</title>
-    <description>Splatlabs - a site for *
+    <description>a site for *
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Jan 2017 10:28:09 -0700</pubDate>
-    <lastBuildDate>Mon, 02 Jan 2017 10:28:09 -0700</lastBuildDate>
+    <pubDate>Mon, 02 Jan 2017 11:37:43 -0700</pubDate>
+    <lastBuildDate>Mon, 02 Jan 2017 11:37:43 -0700</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
