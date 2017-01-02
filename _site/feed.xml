@@ -2,24 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Splatlabs</title>
-    <description>Splatlabs - a site for *
+    <description>a site for *
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Jan 2017 10:13:23 -0700</pubDate>
-    <lastBuildDate>Mon, 02 Jan 2017 10:13:23 -0700</lastBuildDate>
+    <pubDate>Mon, 02 Jan 2017 11:38:49 -0700</pubDate>
+    <lastBuildDate>Mon, 02 Jan 2017 11:38:49 -0700</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Welcome to Splatlabs!</title>
-        <description>&lt;p&gt;hi&lt;/p&gt;
+        <description>&lt;p&gt;Hi.&lt;/p&gt;
+
+&lt;p&gt;So, I set up a new little blog thingie using github pages and jekyll. I wanted a quick and simple blog platform so I could jot down stuff from time to time when I ran across cool stuff or whatnot. It took all of about 20 minutes and I highly recommend it for anybody that wants a quick ‘n dirty static site or blog platform (free of charge no less).&lt;/p&gt;
+
+&lt;p&gt;Now – for inspiration and content (… to be continued).&lt;/p&gt;
+
+&lt;p&gt;-j&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Jan 2017 09:25:22 -0700</pubDate>
-        <link>http://localhost:4000/hi/2017/01/02/welcome-to-splatlabs.html</link>
-        <guid isPermaLink="true">http://localhost:4000/hi/2017/01/02/welcome-to-splatlabs.html</guid>
+        <link>http://localhost:4000/news/2017/01/02/welcome-to-splatlabs.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/2017/01/02/welcome-to-splatlabs.html</guid>
         
         
-        <category>hi</category>
+        <category>news</category>
         
       </item>
     
